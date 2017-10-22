@@ -1,5 +1,5 @@
 // declare your functions here...
-$(document).ready(function paragraphSelector() {
+function paragraphSelector() {
   // code to be executed goes here
   return $('p')
-});
+};
